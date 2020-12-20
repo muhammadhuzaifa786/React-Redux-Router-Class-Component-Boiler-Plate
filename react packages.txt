@@ -1,0 +1,29 @@
+React Bootstrap:
+	npm install react-bootstrap bootstrap
+
+React Material UI:
+	npm install @material-ui/core
+
+React Font Awesome:
+	npm i --save @fortawesome/fontawesome-svg-core
+        npm i --save @fortawesome/free-solid-svg-icons 
+        npm i --save @fortawesome/react-fontawesome
+	npm i --save @fortawesome/free-brands-svg-icons
+	npm i --save @fortawesome/free-regular-svg-icons
+
+React Router:
+	npm install react-router-dom
+
+React Redux:
+	npm install --save redux
+	npm install react-redux
+
+React Redux Thunk:
+	npm install --save redux-thunk
+
+React FireBase:
+	npm i firebase
+
+React UUID (For Firebase File Upload):
+	npm install uuid
+
